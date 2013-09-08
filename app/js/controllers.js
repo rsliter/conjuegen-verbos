@@ -1,11 +1,9 @@
 'use strict';
 
-/* Controllers */
+function VerbosCtrl($scope, $http) {
+  $http.get('verbos/verbos.json').success(function(data) {
+    $scope.verbos = data;
+  });
+}
 
-angular.module('myApp.controllers', []).
-  controller('MyCtrl1', [function() {
-
-  }])
-  .controller('MyCtrl2', [function() {
-
-  }]);
+//VerbosCtrl.$inject = ['$scope', '$http']
