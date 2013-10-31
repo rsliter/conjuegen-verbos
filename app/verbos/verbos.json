@@ -61,5 +61,104 @@
     "nosotros" : "jugamos",
     "ustedes" : "juegan",
     "ellas" : "juegan"
+  },
+  {
+    "infinitivo" : "hacer",
+    "yo" : "hago",
+    "tu" : "haces",
+    "ella" : "hace",
+    "nosotros" : "hacemos",
+    "ustedes" : "hacen",
+    "ellas" : "hacen"
+  },
+  {
+    "infinitivo" : "poder",
+    "yo" : "puedo",
+    "tu" : "puedes",
+    "ella" : "puede",
+    "nosotros" : "podemos",
+    "ustedes" : "pueden",
+    "ellas" : "pueden"
+  },
+  {
+    "infinitivo" : "decir",
+    "yo" : "digo",
+    "tu" : "dices",
+    "ella" : "dice",
+    "nosotros" : "decimos",
+    "ustedes" : "dicen",
+    "ellas" : "dicen"
+  },
+  {
+    "infinitivo" : "llevar",
+    "yo" : "llevo",
+    "tu" : "llevas",
+    "ella" : "lleva",
+    "nosotros" : "llevamos",
+    "ustedes" : "llevan",
+    "ellas" : "llevan"
+  },
+  {
+    "infinitivo" : "llegar",
+    "yo" : "llego",
+    "tu" : "llegas",
+    "ella" : "llega",
+    "nosotros" : "llegamos",
+    "ustedes" : "llegan",
+    "ellas" : "llegan"
+  },
+  {
+    "infinitivo" : "querer",
+    "yo" : "quiero",
+    "tu" : "quieres",
+    "ella" : "quiere",
+    "nosotros" : "queremos",
+    "ustedes" : "quieren",
+    "ellas" : "quieren"
+  },
+  {
+    "infinitivo" : "poner",
+    "yo" : "pongo",
+    "tu" : "pones",
+    "ella" : "pone",
+    "nosotros" : "ponemos",
+    "ustedes" : "ponen",
+    "ellas" : "ponen"
+  },
+  {
+    "infinitivo" : "pedir",
+    "yo" : "pido",
+    "tu" : "pides",
+    "ella" : "pide",
+    "nosotros" : "pedimos",
+    "ustedes" : "piden",
+    "ellas" : "piden"
+  },
+  {
+    "infinitivo" : "salir",
+    "yo" : "salgo",
+    "tu" : "sales",
+    "ella" : "sale",
+    "nosotros" : "salimos",
+    "ustedes" : "salen",
+    "ellas" : "salen"
+  },
+  {
+    "infinitivo" : "dar",
+    "yo" : "doy",
+    "tu" : "das",
+    "ella" : "da",
+    "nosotros" : "damos",
+    "ustedes" : "dan",
+    "ellas" : "dan"
+  },
+  {
+    "infinitivo" : "haber",
+    "yo" : "he",
+    "tu" : "has",
+    "ella" : "ha",
+    "nosotros" : "hemos",
+    "ustedes" : "han",
+    "ellas" : "han"
   }
 ]
