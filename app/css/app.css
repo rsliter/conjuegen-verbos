@@ -1,35 +1,54 @@
 body{
-  color: #B90091;
-  background-color: #D7F970;
-  font-size: 100px;
+  background-color: #4811ae;
+  font-size: 45px;
   font-family: sans-serif;
   font-weight: bold;
 }
 
+#ribbon {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+  background-color: #f4ff94;
+  color: #4811ae;
+  top: 0;
+  left: 0;
+  padding-top: 0.5em;
+  padding-left: 3em;
+}
+
 .col {
-  width: 50%;
+  padding-top: 75px;
   height: 100%;
   min-width:420px;
   float: left;
 }
 
 #left {
+  color: #ffb700;
   text-align: center;
+  width: 35%;
+}
+
+#right {
+  color: #dffa00;
+  width: 65%;
+  text-align: left;
 }
 
 button {
-  background-color: #B90091;
+  background-color: #dffa00;
   font-family: sans-serif;
   font-weight: bold;
-  color: white;
-  height: 75px;
+  color: #4811ae;
+  height: 45px;
   border-radius: 10px;
   border: none;
   vertical-align: middle;
 }
 
 input {
-  font-size: 60px;
+  font-size: 24px;
   width: 300px;
-  margin-top: 30px;
 }
