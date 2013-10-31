@@ -1,6 +1,65 @@
 [
   {
     "infinitivo" : "comer",
-    "yo" : "como"
+    "yo" : "como",
+    "tu" : "comes",
+    "ella" : "come",
+    "nosotros" : "comemos",
+    "ustedes" : "comen",
+    "ellas" : "comen"
+  },
+  {
+    "infinitivo" : "estar",
+    "yo" : "estoy",
+    "tu" : "estas",
+    "ella" : "esta",
+    "nosotros" : "estamos",
+    "ustedes" : "estan",
+    "ellas" : "estan"
+  },
+  {
+    "infinitivo" : "ser",
+    "yo" : "soy",
+    "tu" : "eres",
+    "ella" : "es",
+    "nosotros" : "somos",
+    "ustedes" : "son",
+    "ellas" : "son"
+  },
+  {
+    "infinitivo" : "conocer",
+    "yo" : "conosco",
+    "tu" : "conoces",
+    "ella" : "conoce",
+    "nosotros" : "conocemos",
+    "ustedes" : "conocen",
+    "ellas" : "conocen"
+  },
+  {
+    "infinitivo" : "saber",
+    "yo" : "sé",
+    "tu" : "sabes",
+    "ella" : "sabe",
+    "nosotros" : "sabemos",
+    "ustedes" : "saben",
+    "ellas" : "saben"
+  },
+  {
+    "infinitivo" : "mentir",
+    "yo" : "miento",
+    "tu" : "mientes",
+    "ella" : "miente",
+    "nosotros" : "mentimos",
+    "ustedes" : "mienten",
+    "ellas" : "mienten"
+  },
+  {
+    "infinitivo" : "jugar",
+    "yo" : "juego",
+    "tu" : "juegas",
+    "ella" : "juega",
+    "nosotros" : "jugamos",
+    "ustedes" : "juegan",
+    "ellas" : "juegan"
   }
 ]
